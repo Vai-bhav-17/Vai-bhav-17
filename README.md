@@ -1,14 +1,6 @@
 # Hi there! 👋
 
 I'm Vaibhav Narayanan, an electronics and communication engineer currently pursuing my B.Tech from Govt Model Engineering College Kochi. 🎓
- 
-
-## My Interests 💡
-
-- Data Science 📊
-- Machine Learning 🤖
-- Frontend Development 🌐
-- Electronics and Communication 🎓
 
 ## Get in Touch 📫
 
